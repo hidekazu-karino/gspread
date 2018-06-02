@@ -1,0 +1,1 @@
+pythonを通してGoogle Spreadsheetを操作する簡単なコードです．
